@@ -2,7 +2,12 @@ return {
     ["0.0.1"] = {
         date = "08/11/2026",
         changelog = {
-            "[+] Building the bot"
+            added = {
+                "Building the bot"
+            },
+            fixed = {},
+            removed = {},
+            improved = {}
         }
     }
 }
